@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000236
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྒྱལ་བའི་དབང་པོ་ཀརྨ་པ་བརྒྱད་པ་མི་བསྐྱོད་རྡོ་རྗེའི་གདམས་ཁྲིད་མན་ངག་གི་རིམ་པ་འཆི་མེད་བདུད་རྩིའི་ལྗོན་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧ཀརྨ་མི་བསྐྱོད་རྡོ་རྗེ།
-  sku: VVI-MD-001-1
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-MD-001-1
 web_metadata:
   title:
     en: A Magic Tree of Immortal Nectar:The Hundred Pith Instructions of Karmapa Mikyö
